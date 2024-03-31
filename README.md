@@ -1,6 +1,6 @@
 **AIM: **
 
-To simulate and synthesis of D_flipflop using vivado 2023.2
+To simulate and synthesis of T_flipflop using vivado 2023.2
 
 **APPARATUS REQUIRED:**
 
